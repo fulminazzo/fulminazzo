@@ -7,4 +7,5 @@ For years I have been working on **Minecraft plugins** and recently on **custom 
 I am **open** to **creating new** exciting **projects** so feel free to **contact me** if you think you might need some help!
 <br>
 <br>
-Also, make sure to check out the **Pinned Repositories** section with my most **important works**.
+<!--Also, make sure to check out the **Pinned Repositories** section with my most **important works**.-->
+I suggest you check out **BearCommands** in the **Pinned Repositories** section. This is my **latest work** on which I put so much effort and I would love some **feedback**!
