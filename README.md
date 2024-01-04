@@ -12,3 +12,8 @@ Most of my public works are **Java libraries** that allow developers to **integr
 I suggest checking out **[YAMLParser](https://github.com/Fulminazzo/YAMLParser)** and **[MarkdownParser](https://github.com/Fulminazzo/MarkdownParser)**, two libraries created to edit and manage respectively **YAML** and **Markdown** files.
 
 And if you have some spare time and you are a **Minecraft developer** as well, check out **[BearCommands](https://github.com/Fulminazzo/BearCommands)**. This is my **biggest work as of right now** on which I put so much effort and I would love some **feedback**!
+
+
+## Current Goal
+**Beat the longest streak:**
+<p align="center"><img src="https://streak-stats.demolab.com?user=Fulminazzo&theme=city-lights&background=FFFFFF00" alt="GitHub Streak"/></p>
