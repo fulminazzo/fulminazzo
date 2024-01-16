@@ -28,6 +28,7 @@ And if you have some spare time and you are a **Minecraft developer** as well, c
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Fulminazzo" />
 </picture>
+<a href="https://github.com/Fulminazzo/BearCommands">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=Fulminazzo&repo=BearCommands&show_icons=true&bg_color=00000000&theme=monokai&theme=dark"
@@ -39,6 +40,7 @@ And if you have some spare time and you are a **Minecraft developer** as well, c
   />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fulminazzo&repo=BearCommands" />
 </picture>
+</a>
 <br>
 <br>
 <picture>
