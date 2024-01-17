@@ -17,41 +17,11 @@ And if you have some spare time and you are a **Minecraft developer** as well, c
 **Beat the longest streak:**
 
 <p align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Fulminazzo&show_icons=true&bg_color=00000000&theme=monokai&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Fulminazzo&show_icons=true&bg_color=00000000&theme=buefy"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Fulminazzo" />
-</picture>
+  <img src="https://streak-stats.demolab.com?user=Fulminazzo&background=00000000&theme=tokyonight"/>
 <a href="https://github.com/Fulminazzo/BearCommands">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=Fulminazzo&repo=BearCommands&show_icons=true&bg_color=00000000&theme=monokai&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=Fulminazzo&repo=BearCommands&show_icons=true&bg_color=00000000&theme=buefy"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fulminazzo&repo=BearCommands" />
-</picture>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fulminazzo&repo=BearCommands&show_icons=true&bg_color=00000000&theme=tokyonight" />
 </a>
 <br>
 <br>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fulminazzo&show_icons=true&bg_color=00000000&theme=monokai&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fulminazzo&show_icons=true&bg_color=00000000&theme=buefy"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fulminazzo" />
-</picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fulminazzo&show_icons=true&bg_color=00000000&layout=donut-vertical&theme=tokyonight" />
 </p>
