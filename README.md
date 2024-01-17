@@ -17,11 +17,15 @@ And if you have some spare time and you are a **Minecraft developer** as well, c
 **Beat the longest streak:**
 
 <p align="center">
+<a href="https://github.com/Fulminazzo?tab=repositories">
   <img src="https://streak-stats.demolab.com?user=Fulminazzo&background=00000000&theme=tokyonight"/>
+</a>
 <a href="https://github.com/Fulminazzo/BearCommands">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fulminazzo&repo=BearCommands&show_icons=true&bg_color=00000000&theme=tokyonight" />
 </a>
 <br>
 <br>
+<a href="https://github.com/Fulminazzo?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fulminazzo&show_icons=true&bg_color=00000000&layout=donut-vertical&theme=tokyonight" />
+</a>
 </p>
