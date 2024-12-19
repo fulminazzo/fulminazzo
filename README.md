@@ -18,8 +18,8 @@ To both **display my progress** and **keep on learning**, the following list **s
 
 | Year     | Project                                                    | 
 | -------- | ---------------------------------------------------------- |
-| **2023** | [BearCommands](https://github.com/Fulminazzo/BearCommands) |
-| **2024** | [YAGL](https://github.com/Fulminazzo/YAGL)                 | 
+| **2023** | [**BearCommands**](https://github.com/Fulminazzo/BearCommands) |
+| **2024** | [**YAGL**](https://github.com/Fulminazzo/YAGL)                 | 
 
 For each one of this projects I put so much effort and I would love some **feedback**!
 
