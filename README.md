@@ -28,11 +28,16 @@ For each one of this projects I put so much effort and I would love some **feedb
 
 <p align="center">
 <a href="https://github.com/Fulminazzo?tab=repositories">
-  <img src="https://streak-stats.demolab.com?user=Fulminazzo&background=00000000&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Fulminazzo&background=00000000&theme=tokyonight" alt="" />
 </a>
 <br>
 <br>
 <a href="https://github.com/Fulminazzo?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fulminazzo&show_icons=true&bg_color=00000000&layout=donut-vertical&theme=tokyonight&hide=qml" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fulminazzo&show_icons=true&bg_color=00000000&layout=donut-vertical&theme=tokyonight&hide=qml" alt="" />
+</a>
+<br>
+<br>
+<a href="https://github.com/Fulminazzo?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=018ec85a-c74d-4c14-a23c-79db870b0d26&layout=compact&custom_title=I%20need%20more%20sleep&langs_count=10&theme=tokyonight&bg_color=00000000" alt="" />
 </a>
 </p>
