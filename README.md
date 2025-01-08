@@ -11,6 +11,8 @@ I am **open** to **creating new** exciting **projects** so feel free to **contac
 Most of my public works are **Java libraries** that allow developers to **integrate** my code into **their projects**, while also making **their life easier**.
 I suggest checking out **[YAMLParser](https://github.com/fulminazzo/YAMLParser)** and **[MarkdownParser](https://github.com/fulminazzo/MarkdownParser)**, two libraries created to edit and manage respectively **YAML** and **Markdown** files.
 
+Also yes, I ["recreated" Java] because I was bored.
+
 ## Roadmap
 
 In **2023** I created this Github profile to **share my projects with the world** as well as **receive inputs** and **improve myself**.
