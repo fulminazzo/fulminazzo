@@ -40,6 +40,6 @@ For each one of this projects I put so much effort and I would love some **feedb
 <br>
 <br>
 <a href="https://github.com/fulminazzo/?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=018ec85a-c74d-4c14-a23c-79db870b0d26&layout=compact&custom_title=I%20need%20more%20sleep&langs_count=10&theme=tokyonight&bg_color=00000000&hide=text" alt="" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=018ec85a-c74d-4c14-a23c-79db870b0d26&layout=compact&custom_title=I%20need%20more%20sleep&langs_count=10&theme=tokyonight&bg_color=00000000&&hide=text,properties,textmate,java+properties,class,gitignore+file,idea_module,other,shell+script,csv/tsv" alt="" />
 </a>
 </p>
