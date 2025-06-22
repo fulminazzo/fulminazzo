@@ -23,7 +23,7 @@ To both **display my progress** and **keep on learning**, the following list **s
 | **2023** | [**BearCommands**](https://github.com/fulminazzo/BearCommands) |
 | **2024** | [**YAGL**](https://github.com/fulminazzo/YAGL)                 | 
 
-For each one of this projects I put so much effort and I would love some **feedback**!
+For each one of these projects I put so much effort and I would love some **feedback**!
 
 ## Current Goal
 **Beat the longest streak:**
