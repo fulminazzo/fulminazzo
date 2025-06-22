@@ -13,7 +13,7 @@ I suggest checking out **[YAMLParser](https://github.com/fulminazzo/YAMLParser)*
 
 Also yes, I ["recreated" Java](https://github.com/fulminazzo/mojito) because I was bored.
 
-## Roadmap
+## Journey
 
 In **2023** I created this Github profile to **share my projects with the world** as well as **receive inputs** and **improve myself**.
 To both **display my progress** and **keep on learning**, the following list **sums up every major work for each year**:
